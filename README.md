@@ -1,5 +1,5 @@
 #  Twitch Channel Performance & Viewer Engagement Analysis (SQL)
-Rhoda Daniel
+Rhoda Salome Daniel
 April 2026
 
 ##  Project Overview
