@@ -1,0 +1,14 @@
+##  Power BI Dashboard
+
+A Power BI dashboard was created to visualize:
+- Channel engagement
+- Growth efficiency
+- Relationship between views and follower growth
+
+### Key visuals:
+- Top channels by engagement
+- Growth efficiency comparison
+- Engagement vs growth scatter plot
+
+### Insight:
+The dashboard reveals that engagement and follower growth are weakly correlated, indicating that audience attention does not directly translate into channel growth.
