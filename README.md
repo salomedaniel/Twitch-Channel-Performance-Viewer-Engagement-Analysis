@@ -1,6 +1,6 @@
 #  Twitch Channel Performance & Viewer Engagement Analysis (SQL)
 Rhoda Salome Daniel
-April 2026
+
 
 ##  Project Overview
 This project analyzes Twitch channel performance data using SQL to uncover insights about viewer engagement, content popularity, and follower growth efficiency.
